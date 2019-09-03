@@ -1,0 +1,10 @@
+C:\workspace\dot-net\Bytebank\Bytebank.AgencySystem\bin\Debug\Bytebank.AgencySystem.exe.config
+C:\workspace\dot-net\Bytebank\Bytebank.AgencySystem\bin\Debug\Bytebank.AgencySystem.exe
+C:\workspace\dot-net\Bytebank\Bytebank.AgencySystem\bin\Debug\Bytebank.AgencySystem.pdb
+C:\workspace\dot-net\Bytebank\Bytebank.AgencySystem\bin\Debug\Bytebank.Models.dll
+C:\workspace\dot-net\Bytebank\Bytebank.AgencySystem\bin\Debug\Bytebank.Models.pdb
+C:\workspace\dot-net\Bytebank\Bytebank.AgencySystem\obj\Debug\Bytebank.AgencySystem.csprojAssemblyReference.cache
+C:\workspace\dot-net\Bytebank\Bytebank.AgencySystem\obj\Debug\Bytebank.AgencySystem.csproj.CoreCompileInputs.cache
+C:\workspace\dot-net\Bytebank\Bytebank.AgencySystem\obj\Debug\Bytebank.AgencySystem.csproj.CopyComplete
+C:\workspace\dot-net\Bytebank\Bytebank.AgencySystem\obj\Debug\Bytebank.AgencySystem.exe
+C:\workspace\dot-net\Bytebank\Bytebank.AgencySystem\obj\Debug\Bytebank.AgencySystem.pdb

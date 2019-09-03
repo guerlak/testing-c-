@@ -1,0 +1,6 @@
+C:\workspace\dot-net\Bytebank\Bytebank.Models\bin\Debug\Bytebank.Models.dll
+C:\workspace\dot-net\Bytebank\Bytebank.Models\bin\Debug\Bytebank.Models.pdb
+C:\workspace\dot-net\Bytebank\Bytebank.Models\obj\Debug\Bytebank.Models.csprojAssemblyReference.cache
+C:\workspace\dot-net\Bytebank\Bytebank.Models\obj\Debug\Bytebank.Models.csproj.CoreCompileInputs.cache
+C:\workspace\dot-net\Bytebank\Bytebank.Models\obj\Debug\Bytebank.Models.dll
+C:\workspace\dot-net\Bytebank\Bytebank.Models\obj\Debug\Bytebank.Models.pdb
