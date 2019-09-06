@@ -8,6 +8,6 @@ namespace ByteBank.Employees.Tools
     public interface IAuth
     {
         bool DoAuthentication(string password);
-        string ShowCompanyName();
+       
     }
 }

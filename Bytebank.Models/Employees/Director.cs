@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Employees
 {
-    class Director : AuthEmployee
+    class Director : Employee
     {
         public Director(string name, string email, double salary) : base(name, email, salary)
         {
@@ -20,7 +20,7 @@ namespace ByteBank.Employees
             return Salary + base.GetBonus();
         }
 
-        public override void IncreaseSalary()
+         internal protected override void IncreaseSalary()
         {
             Salary += Salary * 0.5;
         }

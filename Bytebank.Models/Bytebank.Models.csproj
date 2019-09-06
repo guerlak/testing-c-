@@ -42,7 +42,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BankAccount.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="Employees\AccountManager.cs" />
     <Compile Include="Employees\AuthEmployee.cs" />
@@ -53,7 +52,7 @@
     <Compile Include="Exceptions\InsufficientFundsException.cs" />
     <Compile Include="Partners\BusinessPartner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tools\Authenticate.cs" />
+    <Compile Include="Tools\AuthenticationHelper.cs" />
     <Compile Include="Tools\BonusManager.cs" />
     <Compile Include="Tools\ErpManager.cs" />
     <Compile Include="Tools\FileReaderSimuator.cs" />

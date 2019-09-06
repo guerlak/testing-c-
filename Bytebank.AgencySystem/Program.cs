@@ -1,4 +1,5 @@
 ﻿using ByteBank;
+using ByteBank.Partners;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,10 @@ namespace Bytebank.AgencySystem
             
             BankAccount bradesco = new BankAccount(c1, "2134-9", 111000.00);
             BankAccount itau = new BankAccount(c1, "2134-9", 1000.00);
+
+            BusinessPartner partner = new BusinessPartner("Volvo", "Aloha-99");
+
+            partner.DoAuthentication("Aloha-99");
 
             bradesco.MakeTransfer(itau, 10000.00);
 

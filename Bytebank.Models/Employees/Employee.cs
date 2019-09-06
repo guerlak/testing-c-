@@ -34,12 +34,13 @@ namespace ByteBank.Employees
             return numberOfEmployees;
         }
 
+        //virtual has implementation but it also possible override in the derived class
         public virtual double GetBonus()
         {
             return Salary * 0.10;
         }
 
-        public abstract void IncreaseSalary();
+        internal protected abstract void IncreaseSalary();
     }
 
 }
