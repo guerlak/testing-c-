@@ -39,7 +39,6 @@ namespace ByteBank.Employees
         {
             return Salary * 0.10;
         }
-
         internal protected abstract void IncreaseSalary();
     }
 

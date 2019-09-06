@@ -44,7 +44,6 @@
     <Compile Include="BankAccount.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="Employees\AccountManager.cs" />
-    <Compile Include="Employees\AuthEmployee.cs" />
     <Compile Include="Employees\Designer.cs" />
     <Compile Include="Employees\Director.cs" />
     <Compile Include="Employees\Employee.cs" />
